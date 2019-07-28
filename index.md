@@ -45,11 +45,11 @@ We welcome submission of artwork that has been created using machine learning (a
 * Website
 * Other types of submissions (e.g., physical artefacts, performances, text, …) should be documented using one or more of the above formats. For instance, you might submit a video of a machine-learning-generated dance piece or a website documenting a text generation piece.
 
-On this submission [https://docs.google.com/forms/d/e/1FAIpQLSeABURznRXoUwp48OAKGcmDa0jqp1cbVposxH5dR68D-C8IVg/viewform](page), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
+On this submission [page](https://docs.google.com/forms/d/e/1FAIpQLSeABURznRXoUwp48OAKGcmDa0jqp1cbVposxH5dR68D-C8IVg/viewform), you will also be asked for a short text description of your work and a description of how machine learning was used in its creation.
 
 Art submissions will be reviewed by committee members.
 
-We will host an online gallery of accepted art submissions on the workshop website, similar to the previous galleries [http://www.aiartonline.com/](aiartonline.com) (2018) and [http://nips4creativity.com/](nips4creativity.com) (2017). While we will do our best to show a number of art pieces at the workshop itself, we will most likely not have access to adequate equipment and space to support a substantial exhibit. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
+We will host an online gallery of accepted art submissions on the workshop website, similar to the previous galleries [aiartonline.com](http://www.aiartonline.com/) (2018) and [nips4creativity.com](http://nips4creativity.com/) (2017). While we will do our best to show a number of art pieces at the workshop itself, we will most likely not have access to adequate equipment and space to support a substantial exhibit. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
 Artists submitting work are encouraged though not required to attend in person.
 
