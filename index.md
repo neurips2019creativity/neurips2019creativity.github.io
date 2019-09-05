@@ -69,7 +69,7 @@ To be announced!
 
 8–14 December 2019: NeurIPS Conference
 
-13 or 14 December 2019: Workshop (date to be announced)
+14 December 2019: Workshop
 
 ## Contact
 
