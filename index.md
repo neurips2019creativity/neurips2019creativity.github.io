@@ -10,7 +10,7 @@ We invite participation in the form of papers and/or artwork.
 
 ### To Submit a Paper
 
-We invite participants to submit 2-page papers in the NIPS camera-ready format (with author names visible), to be submitted to: `neurips2019creativity@gmail.com`
+We invite participants to submit 2-page papers in the NeurIPS [camera-ready format](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) (with author names visible), to be submitted to: `neurips2019creativity@gmail.com`
 
 In the subject line of your email, please put:
 
