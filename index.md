@@ -54,4 +54,4 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 
 ## Sponsors
 
-![Google](https://neurips2019creativity.github.io/neurips2019creativity.github.io/assets/google_logo.png | width=400)
+<img src="https://neurips2019creativity.github.io/neurips2019creativity.github.io/assets/google_logo.png" alt="Google" width="95%" align="center" />
