@@ -8,7 +8,6 @@ The goal of this workshop is to bring together researchers interested in advanci
 
 * Sougwen Chung 
 * Claire Evans (YACHT)
-* Yann LeCun (Facebook)
 * Giorgio Patrini (Deeptrace)
 * Alec Radford (OpenAI)
 
