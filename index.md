@@ -32,14 +32,41 @@ If you have any questions, please contact us at `neurips2019creativity@gmail.com
 
 Workshop website: [https://neurips2019creativity.github.io](https://neurips2019creativity.github.io)
 
+## Schedule
+
+| Time    | Event  |
+|---------|--------|
+| 8:15 AM | Welcome and Introduction  |
+| 8:30 AM | Invited Talk<br/>*Alec Radford* |
+| 9:00 AM | Invited Talk<br/>*Giorgio Patrini* |
+| 9:30 AM | AI art gallery overview<br/>*Luba Elliott* |
+| 9:45 AM | Art / Coffee Break |
+| 10:30 AM | To be announced |
+| 11:00 AM | Neural Painters: A learned differentiable constraint for generating brushstroke paintings<br/>*Rei Nakano* |
+| 11:10 AM | Transform the Set: Memory Attentive Generation of Guided and Unguided Image Collages<br/>*Nikolay Jetchev, Roland Vollgraf* |
+| 11:20 AM | Paper Dreams: An Interactive Interface for Generative Visual Expression<br/>*Guillermo Bernal, Lily Zhou* |
+| 11:30 AM | Deep reinforcement learning for 2D soft body locomotion<br/>*Junior Rojas* |
+| 11:40 AM | Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse Design Workflow<br/>*Josef Musil* |
+| 11:50 AM | Human and GAN collaboration to create haute couture dress<br/>*Jun Seita, Tatsuki Koga* |
+| 12:00 PM | Lunch |
+| 1:30 PM | Poster Session 1 (papers 1-15)<br/>*Han-Hung Lee, Asir Saeed, Terence Broad, Jon Gillick, Aaron Hertzmann, Gunjan Aggarwal, Eun Jee Sung, Alex Champandard, Junghyun Park, John Mellor, Vincent Herrmann, Da Gin Wu, Seri Lee, Park Jieun, TaeJae Han, Wonseok Jung, Seungil Kim* |
+| 2:30 PM | Invited Talk<br/>*Sougwen Chung* |
+| 3:00 PM | Invited Talk<br/>*Claire Evans* |
+| 3:30 PM | Art / Coffee Break |
+| 4:15 PM | MidiMe: Personalizing a MusicVAE model with user data<br/>*Monica Dinculescu* |
+| 4:25 PM | First Steps Towards Collaborative Poetry Generation<br/>*David Uthus, Maria Voitovich* |
+| 4:35 PM | Open discussion |
+| 5:00 PM | Poster Session 2 (papers 16-30)<br/>*Mayur Saxena, Nicholas Frosst, Vivien Cabannes, Gene Kogan, Austin Dill, Anurag Sarkar, Joel Ruben Antony Moniz, Vibert Thio, Scott Sievert, Lia Coleman, Frederik De Bleser, Brian Quanz, Jonathon Kereliuk, Panos Achlioptas, Mohamed Elhoseiny, Songwei Ge, Aidan Gomez, Jamie Brew* |
+| 5:00 PM | Artwork<br/>*Helena Sarin, Anthony Bourached, CJ Carr, Zack Zukowski, Aven Zhou, Katerina Malakhova, Maja Petric, Tom Laurenzo, Elle O'Brien, Matthew Wegner, Yuma Kishi, Sehmon Burnam* |
+
 ## Accepted papers
 
 Papers 1-15 will be presented in the first poster session. Papers 16-30 will be presented in the second poster session. Papers 31 & 32 will not be presented, as the authors are unable to attend.
 
 1. [Visual Indeterminacy in Generative Neural Art](doc/Visual_Indeterminacy_in_Generative_Neural_Art.pdf)
     * *Aaron Hertzmann*
-2. Neural Rendering Pipeline for Face Inversion and Reconstruction
-    * *TBA*
+2. [Neural Rendering Pipeline for Face Inversion and Reconstruction](doc/Photo_Realistic_Neural_Inverse_Rendering_and_Face_Reconstruction.pdf)
+    * *Alex J. Champandard*
 3. [Unsupervised Doodling and Painting with Improved SPIRAL](doc/improved_spiral.pdf)
     * *John Mellor, Eunbyung Park, Dan Rosenbaum, Andy Ballard, Yaroslav Ganin, Igor Babuschkin, Theophane Weber, Oriol Vinyals, Tejas Kulkarni, S. M. Ali Eslami*
 4. [Creative GANs for generating poems, lyrics, and metaphors](doc/creative_gans.pdf)
@@ -123,4 +150,4 @@ Papers 1-15 will be presented in the first poster session. Papers 16-30 will be 
 
 ## Sponsors
 
-<img src="https://neurips2019creativity.github.io/neurips2019creativity.github.io/assets/google_logo.png" alt="Google" width="95%" align="center" />
+<img src="https://neurips2019creativity.github.io/neurips2019creativity.github.io/assets/google_logo.png" alt="Google" width="60%" align="center" />
