@@ -72,11 +72,11 @@ Papers 1-15 will be presented in the first poster session. Papers 16-30 will be 
     * *Austin Dill, Songwei Ge, Eunsu Kang, Chun-Liang Li, Barnabás Póczos*
 18. [Machine learning based co-creative design framework](doc/quanz_final_2019_neurips_workshop_creativity.pdf)
     * *Brian Quanz, Wei Sun, Ajay Deshpande, Dhruv Shah, Jae-eun Park*
-19. [First Steps Towards Collaborative Poetry Generation](First_Steps_Towards_Collaborative_Poetry_Generation.pdf)
+19. [First Steps Towards Collaborative Poetry Generation](doc/First_Steps_Towards_Collaborative_Poetry_Generation.pdf)
     * *David Uthus, Maria Voitovich, R.J. Mical, Ray Kurzweil*
 20. [Artist in the Cloud: Towards an Autonomous Artist](doc/Artist in the Cloud - Towards an Autonomous Artist.pdf)
     * *Gene Kogan*
-21. [LucidDream: Controlled Temporally-Consistent DeepDream on Videos](LucidDream__Controlled_Temporally_consistent_DeepDream_on_Videos__NeurIPS_camred.pdf)
+21. [LucidDream: Controlled Temporally-Consistent DeepDream on Videos](doc/LucidDream__Controlled_Temporally_consistent_DeepDream_on_Videos__NeurIPS_camred.pdf)
     * *Joel Ruben Antony Moniz, Eunsu Kang, Barnabás Póczos*
 22. [Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse Design Workflow](doc/Neurips2019_JMusil_Paper.pdf)
     * *Josef Musil, Jakub Knir, Athanasios Vitsas, Irene Gallou*
@@ -90,13 +90,13 @@ Papers 1-15 will be presented in the first poster session. Papers 16-30 will be 
     * *Monica Dinculescu, Jesse Engel, Adam Roberts*
 27. [Text Conditional Lyric Video Generation](doc/Text Conditional Lyric Video Generation.pdf)
     * *Nicholas Frosst, Jonathon Kereliuk*
-28. [A robot and comedian walk into a bar, and… AHA!](doc/A robot and comedian walk into a bar, and…AHA!.pdf)
+28. [A robot and comedian walk into a bar, and… AHA!](doc/robot_and_comedian.pdf)
     * *Jamie Brew, Joseph Holt, Lalit Jain, Robert Mankoff, Liam Marshall, Robert Nowak, Rahul Parhi, Scott Sievert*
 29. [Neural Loops](doc/Neural Loops(nips2019).pdf)
     * *Vibert Thio, Chris Donahue*
 30. [Dialog on a canvas with a machine](doc/Dialog on a canvas with a machine.pdf)
     * *Vivien Cabannes, Tina Campana, Charly Ferrandes, Thomas Kerdreux, Louis Thiry*
-31. [GANDelve — a Visual Interface for Creative AI](gandelve_2019.pdf)
+31. [GANDelve — a Visual Interface for Creative AI](doc/gandelve_2019.pdf)
     * *Frederik De Bleser*
 32. [Generative System to Assist the Artist in the Choice of 3D Composition for a Still Life Painting](doc/Generative System to Assist the Artist in the Choiceof 3D Composition for a Still Life Painting by Guido Salimbeni.pdf)
     * *Guido Salimbeni, Frederic Fol Leymarie, William Latham*
