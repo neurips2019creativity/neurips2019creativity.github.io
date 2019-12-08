@@ -56,7 +56,6 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 | 4:25 PM | First Steps Towards Collaborative Poetry Generation<br/>*David Uthus, Maria Voitovich* |
 | 4:35 PM | Open discussion |
 | 5:00 PM | Poster Session 2 (papers 16-30)<br/>*Mayur Saxena, Nicholas Frosst, Vivien Cabannes, Gene Kogan, Austin Dill, Anurag Sarkar, Joel Ruben Antony Moniz, Vibert Thio, Scott Sievert, Lia Coleman, Frederik De Bleser, Brian Quanz, Jonathon Kereliuk, Panos Achlioptas, Mohamed Elhoseiny, Songwei Ge, Aidan Gomez, Jamie Brew* |
-| 5:00 PM | Artwork<br/>*Helena Sarin, Anthony Bourached, CJ Carr, Zack Zukowski, Aven Zhou, Katerina Malakhova, Maja Petric, Tom Laurenzo, Elle O'Brien, Matthew Wegner, Yuma Kishi, Sehmon Burnam* |
 
 ## Accepted papers
 
