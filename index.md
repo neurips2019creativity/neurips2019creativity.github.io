@@ -40,7 +40,7 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 | 9:00 AM | Invited Talk<br/>*Giorgio Patrini* |
 | 9:30 AM | AI art gallery overview<br/>*Luba Elliott* |
 | 9:45 AM | Art / Coffee Break |
-| 10:30 AM | To be announced |
+| 10:30 AM | Artist Lightning Talks |
 | 11:00 AM | Neural Painters: A learned differentiable constraint for generating brushstroke paintings<br/>*Rei Nakano* |
 | 11:10 AM | Transform the Set: Memory Attentive Generation of Guided and Unguided Image Collages<br/>*Nikolay Jetchev, Roland Vollgraf* |
 | 11:20 AM | Paper Dreams: An Interactive Interface for Generative Visual Expression<br/>*Guillermo Bernal, Lily Zhou* |
@@ -59,72 +59,70 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 
 ## Accepted papers
 
-Papers 1-15 will be presented in the first poster session. Papers 16-30 will be presented in the second poster session. Papers 31 & 32 will not be presented, as the authors are unable to attend.
+Papers 1-13 will be presented in the first poster session. Papers 13-28 will be presented in the second poster session. Papers 29-31 will not be presented, as the authors are unable to attend.
 
 1. [Visual Indeterminacy in Generative Neural Art](doc/Visual_Indeterminacy_in_Generative_Neural_Art.pdf)
     * *Aaron Hertzmann*
-2. [Neural Rendering Pipeline for Face Inversion and Reconstruction](doc/Photo_Realistic_Neural_Inverse_Rendering_and_Face_Reconstruction.pdf)
-    * *Alex J. Champandard*
-3. [Unsupervised Doodling and Painting with Improved SPIRAL](doc/improved_spiral.pdf)
+2. [Unsupervised Doodling and Painting with Improved SPIRAL](doc/improved_spiral.pdf)
     * *John Mellor, Eunbyung Park, Dan Rosenbaum, Andy Ballard, Yaroslav Ganin, Igor Babuschkin, Theophane Weber, Oriol Vinyals, Tejas Kulkarni, S. M. Ali Eslami*
-4. [Creative GANs for generating poems, lyrics, and metaphors](doc/creative_gans.pdf)
+3. [Creative GANs for generating poems, lyrics, and metaphors](doc/creative_gans.pdf)
     * *Asir Saeed, Suzana Ilić, Eva Zangerle*
-5. [UGly-Net: Playful Exploration of U-Net for Glitch Effects](doc/NeurIPS2019_UGly-Net_CameraReady.pdf)
+4. [UGly-Net: Playful Exploration of U-Net for Glitch Effects](doc/NeurIPS2019_UGly-Net_CameraReady.pdf)
     * *Seri Lee, Eun Jee Sung, Jieun Park, Juhee Lee*
-6. [Paper Dreams: An Interactive Interface for Generative Visual Expression](doc/PaperDreams_NeurIPS_2019.pdf)
+5. [Paper Dreams: An Interactive Interface for Generative Visual Expression](doc/PaperDreams_NeurIPS_2019.pdf)
     * *Guillermo Bernal, Lily Zhou, Haripriya Mehta, Pattie Maes*
-7. [cFineGAN: Unsupervised multi-conditional fine-grained image generation](doc/cfinegan.pdf)
-    * *Gunjan Aggarwal, Abhishek Sinha*
-8. [Stylizing Audio Reactive Visuals](doc/Stylizing Audio Reactive Visuals.pdf)
+6. [Stylizing Audio Reactive Visuals](doc/Stylizing Audio Reactive Visuals.pdf)
     * *Han-Hung Lee, Da-Gin Wu, and Hwann-Tzong Chen*
-9. [Breaking Speech Recognizers to Imagine Lyrics](doc/Imagining_Lyrics_Camera_Ready.pdf)
+7. [Breaking Speech Recognizers to Imagine Lyrics](doc/Imagining_Lyrics_Camera_Ready.pdf)
     * *Jon Gillick, David Bamman*
-10. [A generative approach to Korean abstract painting Dansaekhwa](doc/NeurIPS2019_Paper_A generative approach to Korean abstract painting Dansaekhwa_191201 (1).pdf)
+8. [A generative approach to Korean abstract painting Dansaekhwa](doc/NeurIPS2019_Paper_A generative approach to Korean abstract painting Dansaekhwa_191201 (1).pdf)
     * *TaeJae Han, EunJeong Kang, Jinho Bae, Junghyun Park*
-11. [Deep reinforcement learning for 2D soft body locomotion](doc/drlsbl-neurips-2019.pdf)
+9. [Deep reinforcement learning for 2D soft body locomotion](doc/drlsbl-neurips-2019.pdf)
     * *Junior Rojas, Stelian Coros, Ladislav Kavan*
-12. [Transform the Set: Memory Attentive Generation of Guided and Unguided Image Collages](doc/MAGIC_collage_cameraready.pdf)
+10. [Transform the Set: Memory Attentive Generation of Guided and Unguided Image Collages](doc/MAGIC_collage_cameraready.pdf)
     * *Nikolay Jetchev, Urs Bergmann, Gokhan Yildirim*
-13. [Neural Painters: A learned differentiable constraint for generating brushstroke paintings](doc/Neural_Painters___creativity_workshop.pdf)
+11. [Neural Painters: A learned differentiable constraint for generating brushstroke paintings](doc/Neural_Painters___creativity_workshop.pdf)
     * *Reiichiro Nakano*
-14. [Searching for an (un)stable equilibrium: experiments in training generative models without data](doc/Searching for an (un)stable equilibrium_ experiments in training generative models without data.pdf)
+12. [Searching for an (un)stable equilibrium: experiments in training generative models without data](doc/Searching for an (un)stable equilibrium_ experiments in training generative models without data.pdf)
     * *Terence Broad, Mick Grierson*
-15. [Immersions - How does music sound to artificial ears?](doc/Immersions_NeurIPS.pdf)
+13. [Immersions - How does music sound to artificial ears?](doc/Immersions_NeurIPS.pdf)
     * *Vincent Herrmann*
-16. [Game Design using Creative AI](doc/Anurag_Sarkar_NeurIPS_MLCD_2019.pdf)
+14. [Game Design using Creative AI](doc/Anurag_Sarkar_NeurIPS_MLCD_2019.pdf)
     * *Anurag Sarkar*
-17. [Learned Interpolation for 3D Generation](doc/Learned_Interpolation_for_3D_Generation.pdf)
+15. [Learned Interpolation for 3D Generation](doc/Learned_Interpolation_for_3D_Generation.pdf)
     * *Austin Dill, Songwei Ge, Eunsu Kang, Chun-Liang Li, Barnabás Póczos*
-18. [Machine learning based co-creative design framework](doc/quanz_final_2019_neurips_workshop_creativity.pdf)
+16. [Machine learning based co-creative design framework](doc/quanz_final_2019_neurips_workshop_creativity.pdf)
     * *Brian Quanz, Wei Sun, Ajay Deshpande, Dhruv Shah, Jae-eun Park*
-19. [First Steps Towards Collaborative Poetry Generation](doc/First_Steps_Towards_Collaborative_Poetry_Generation.pdf)
+17. [First Steps Towards Collaborative Poetry Generation](doc/First_Steps_Towards_Collaborative_Poetry_Generation.pdf)
     * *David Uthus, Maria Voitovich, R.J. Mical, Ray Kurzweil*
-20. [Artist in the Cloud: Towards an Autonomous Artist](doc/Artist in the Cloud - Towards an Autonomous Artist.pdf)
+18. [Artist in the Cloud: Towards an Autonomous Artist](doc/Artist in the Cloud - Towards an Autonomous Artist.pdf)
     * *Gene Kogan*
-21. [LucidDream: Controlled Temporally-Consistent DeepDream on Videos](doc/LucidDream__Controlled_Temporally_consistent_DeepDream_on_Videos__NeurIPS_camred.pdf)
+19. [LucidDream: Controlled Temporally-Consistent DeepDream on Videos](doc/LucidDream__Controlled_Temporally_consistent_DeepDream_on_Videos__NeurIPS_camred.pdf)
     * *Joel Ruben Antony Moniz, Eunsu Kang, Barnabás Póczos*
-22. [Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse Design Workflow](doc/Neurips2019_JMusil_Paper.pdf)
+20. [Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse Design Workflow](doc/Neurips2019_JMusil_Paper.pdf)
     * *Josef Musil, Jakub Knir, Athanasios Vitsas, Irene Gallou*
-23. [Human and GAN collaboration to create haute couture dress](doc/Seita_camera_ready.pdf)
+21. [Human and GAN collaboration to create haute couture dress](doc/Seita_camera_ready.pdf)
     * *Tatsuki Koga, Ema Rie, Kazuko Hirose, Jun Seita*
-24. [Towards Principled Evaluation of Creativity of Machine-Generated Art](doc/V3_Towards a Principled Evaluation of Likeability for Machine-Generated Art.pdf)
+22. [Towards Principled Evaluation of Creativity of Machine-Generated Art](doc/V3_Towards a Principled Evaluation of Likeability for Machine-Generated Art.pdf)
     * *Lia Coleman, Panos Achlioptas, Mohamed Elhoseiny*
-25. [Location Conditional Image Generation using Generative Adversarial Networks](doc/Location Conditional Image Generation using Generative Adversarial Networks.pdf)
+23. [Location Conditional Image Generation using Generative Adversarial Networks](doc/Location Conditional Image Generation using Generative Adversarial Networks.pdf)
     * *Mayur Saxena, Aidan Gomez, Yarin Gal*
-26. [MidiMe: Personalizing a MusicVAE model with user data](doc/MidiMe_ Personalizing a MusicVAE model with user data.pdf)
+24. [MidiMe: Personalizing a MusicVAE model with user data](doc/MidiMe_ Personalizing a MusicVAE model with user data.pdf)
     * *Monica Dinculescu, Jesse Engel, Adam Roberts*
-27. [Text Conditional Lyric Video Generation](doc/Text Conditional Lyric Video Generation.pdf)
+25. [Text Conditional Lyric Video Generation](doc/Text Conditional Lyric Video Generation.pdf)
     * *Nicholas Frosst, Jonathon Kereliuk*
-28. [A robot and comedian walk into a bar, and… AHA!](doc/robot_and_comedian.pdf)
+26. [A robot and comedian walk into a bar, and… AHA!](doc/robot_and_comedian.pdf)
     * *Jamie Brew, Joseph Holt, Lalit Jain, Robert Mankoff, Liam Marshall, Robert Nowak, Rahul Parhi, Scott Sievert*
-29. [Neural Loops](doc/Neural Loops(nips2019).pdf)
+27. [Neural Loops](doc/Neural Loops(nips2019).pdf)
     * *Vibert Thio, Chris Donahue*
-30. [Dialog on a canvas with a machine](doc/Dialog on a canvas with a machine.pdf)
+28. [Dialog on a canvas with a machine](doc/Dialog on a canvas with a machine.pdf)
     * *Vivien Cabannes, Tina Campana, Charly Ferrandes, Thomas Kerdreux, Louis Thiry*
-31. [GANDelve — a Visual Interface for Creative AI](doc/gandelve_2019.pdf)
+29. [GANDelve — a Visual Interface for Creative AI](doc/gandelve_2019.pdf)
     * *Frederik De Bleser*
-32. [Generative System to Assist the Artist in the Choice of 3D Composition for a Still Life Painting](doc/Generative System to Assist the Artist in the Choiceof 3D Composition for a Still Life Painting by Guido Salimbeni.pdf)
+30. [Generative System to Assist the Artist in the Choice of 3D Composition for a Still Life Painting](doc/Generative System to Assist the Artist in the Choiceof 3D Composition for a Still Life Painting by Guido Salimbeni.pdf)
     * *Guido Salimbeni, Frederic Fol Leymarie, William Latham*
+31. [cFineGAN: Unsupervised multi-conditional fine-grained image generation](doc/cfinegan.pdf)
+    * *Gunjan Aggarwal, Abhishek Sinha*
 
 ## Organisers
 
