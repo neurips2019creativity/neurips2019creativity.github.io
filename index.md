@@ -40,7 +40,7 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 | 9:00 AM | Invited Talk<br/>*Giorgio Patrini* |
 | 9:30 AM | AI art gallery overview<br/>*Luba Elliott* |
 | 9:45 AM | Art / Coffee Break |
-| 10:30 AM | Invited Talk<br/>*Yann LeCun* |
+| 10:30 AM | Invited Talk<br/>*Yann LeCun (?)* |
 | 10:30 AM | Artist Lightning Talks |
 | 11:00 AM | Neural Painters: A learned differentiable constraint for generating brushstroke paintings<br/>*Rei Nakano* |
 | 11:10 AM | Transform the Set: Memory Attentive Generation of Guided and Unguided Image Collages<br/>*Nikolay Jetchev, Roland Vollgraf* |
