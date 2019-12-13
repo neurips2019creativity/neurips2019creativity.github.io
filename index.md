@@ -36,7 +36,7 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 | Time    | Event  |
 |---------|--------|
 | 8:15 AM | Welcome and Introduction  |
-| 8:30 AM | Invited Talk<br/>*Alec Radford* (OpenAI) |
+| 8:30 AM | Invited Talk<br/>*Alec Radford* (OpenAI) <br/> Transfer Learning for Text Generation |
 | 9:00 AM | Invited Talk<br/>*Giorgio Patrini* (Deeptrace) <br/> Deepfakes: commodification, consequences and countermeasures.|
 | 9:30 AM | AI art gallery overview<br/>*Luba Elliott* |
 | 9:45 AM | Art / Coffee Break |
