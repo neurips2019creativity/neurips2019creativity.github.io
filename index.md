@@ -60,7 +60,7 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 
 ## Accepted papers
 
-Papers 1-13 will be presented in the first poster session. Papers 14-28 will be presented in the second poster session. Papers 29-31 will not be presented, as the authors are unable to attend.
+Papers 1-13 & 23 will be presented in the first poster session. Papers 14-22, 24-28 will be presented in the second poster session. Papers 29-31 will not be presented, as the authors are unable to attend.
 
 1. [Visual Indeterminacy in Generative Neural Art](doc/Visual_Indeterminacy_in_Generative_Neural_Art.pdf)
     * *Aaron Hertzmann*
