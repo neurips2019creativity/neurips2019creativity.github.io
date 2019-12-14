@@ -49,18 +49,18 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 | 11:40 AM | Towards Sustainable Architecture: 3D Convolutional Neural Networks for Computational Fluid Dynamics Simulation and Reverse Design Workflow<br/>*Josef Musil* |
 | 11:50 AM | Human and GAN collaboration to create haute couture dress<br/>*Jun Seita, Tatsuki Koga* |
 | 12:00 PM | Lunch |
-| 1:30 PM | Poster Session 1 (papers 1-15)<br/>*Han-Hung Lee, Asir Saeed, Terence Broad, Jon Gillick, Aaron Hertzmann, Gunjan Aggarwal, Eun Jee Sung, Alex Champandard, Junghyun Park, John Mellor, Vincent Herrmann, Da Gin Wu, Seri Lee, Park Jieun, TaeJae Han, Wonseok Jung, Seungil Kim* |
+| 1:30 PM | Poster Session 1 (papers 1-13)<br/>*Han-Hung Lee, Asir Saeed, Terence Broad, Jon Gillick, Aaron Hertzmann, Gunjan Aggarwal, Eun Jee Sung, Junghyun Park, John Mellor, Vincent Herrmann, Da Gin Wu, Seri Lee, Park Jieun, TaeJae Han, Wonseok Jung, Seungil Kim* |
 | 2:30 PM | Invited Talk<br/>*Claire Evans* (YACHT) <br/> How to Chain Trip
 | 3:00 PM | Invited Talk<br/>*Sougwen Chung*|
 | 3:30 PM | Art / Coffee Break |
 | 4:15 PM | MidiMe: Personalizing a MusicVAE model with user data<br/>*Monica Dinculescu* |
 | 4:25 PM | First Steps Towards Collaborative Poetry Generation<br/>*David Uthus, Maria Voitovich* |
 | 4:35 PM | Open discussion |
-| 5:00 PM | Poster Session 2 (papers 16-30)<br/>*Mayur Saxena, Nicholas Frosst, Vivien Cabannes, Gene Kogan, Austin Dill, Anurag Sarkar, Joel Ruben Antony Moniz, Vibert Thio, Scott Sievert, Lia Coleman, Frederik De Bleser, Brian Quanz, Jonathon Kereliuk, Panos Achlioptas, Mohamed Elhoseiny, Songwei Ge, Aidan Gomez, Jamie Brew* |
+| 5:00 PM | Poster Session 2 (papers 14-28)<br/>*Mayur Saxena, Nicholas Frosst, Vivien Cabannes, Gene Kogan, Austin Dill, Anurag Sarkar, Joel Ruben Antony Moniz, Vibert Thio, Scott Sievert, Lia Coleman, Frederik De Bleser, Brian Quanz, Jonathon Kereliuk, Panos Achlioptas, Mohamed Elhoseiny, Songwei Ge, Aidan Gomez, Jamie Brew* |
 
 ## Accepted papers
 
-Papers 1-13 will be presented in the first poster session. Papers 13-28 will be presented in the second poster session. Papers 29-31 will not be presented, as the authors are unable to attend.
+Papers 1-13 will be presented in the first poster session. Papers 14-28 will be presented in the second poster session. Papers 29-31 will not be presented, as the authors are unable to attend.
 
 1. [Visual Indeterminacy in Generative Neural Art](doc/Visual_Indeterminacy_in_Generative_Neural_Art.pdf)
     * *Aaron Hertzmann*
