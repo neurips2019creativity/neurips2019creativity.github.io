@@ -50,8 +50,8 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 | 11:50 AM | Human and GAN collaboration to create haute couture dress<br/>*Jun Seita, Tatsuki Koga* |
 | 12:00 PM | Lunch |
 | 1:30 PM | Poster Session 1 (papers 1-15)<br/>*Han-Hung Lee, Asir Saeed, Terence Broad, Jon Gillick, Aaron Hertzmann, Gunjan Aggarwal, Eun Jee Sung, Alex Champandard, Junghyun Park, John Mellor, Vincent Herrmann, Da Gin Wu, Seri Lee, Park Jieun, TaeJae Han, Wonseok Jung, Seungil Kim* |
-| 2:30 PM | Invited Talk<br/>*Sougwen Chung* |
-| 3:00 PM | Invited Talk<br/>*Claire Evans* (YACHT) <br/> How to Chain Trip |
+| 2:30 PM | Invited Talk<br/>*Claire Evans* (YACHT) <br/> How to Chain Trip
+| 3:00 PM | Invited Talk<br/>*Sougwen Chung*|
 | 3:30 PM | Art / Coffee Break |
 | 4:15 PM | MidiMe: Personalizing a MusicVAE model with user data<br/>*Monica Dinculescu* |
 | 4:25 PM | First Steps Towards Collaborative Poetry Generation<br/>*David Uthus, Maria Voitovich* |
