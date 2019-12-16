@@ -41,7 +41,7 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 | 9:00 AM | Invited Talk<br/>*Giorgio Patrini* (Deeptrace) <br/> Deepfakes: commodification, consequences and countermeasures.|
 | 9:30 AM | AI art gallery overview<br/>*Luba Elliott* |
 | 9:45 AM | Art / Coffee Break |
-| **Session 2** | [Livestream/Recording](https://slideslive.com/38922086/neurips-workshop-on-machine-learning-for-creativity-and-design-30-2) |
+| **Session 2** | [Livestream/Recording](https://slideslive.com/38922087/neurips-workshop-on-machine-learning-for-creativity-and-design-30-2) |
 | 10:30 AM | Invited Talk<br/>*Yann LeCun (?)* |
 | 10:30 AM | Artist Lightning Talks |
 | 11:00 AM | Neural Painters: A learned differentiable constraint for generating brushstroke paintings<br/>*Rei Nakano* |
@@ -52,11 +52,11 @@ Workshop website: [https://neurips2019creativity.github.io](https://neurips2019c
 | 11:50 AM | Human and GAN collaboration to create haute couture dress<br/>*Jun Seita, Tatsuki Koga* |
 | 12:00 PM | Lunch |
 | 1:30 PM | Poster Session 1 (papers 1-13, 23)<br/>*Han-Hung Lee, Asir Saeed, Terence Broad, Jon Gillick, Aaron Hertzmann, Gunjan Aggarwal, Eun Jee Sung, Junghyun Park, John Mellor, Vincent Herrmann, Da Gin Wu, Seri Lee, Park Jieun, TaeJae Han, Wonseok Jung, Seungil Kim* |
-| **Session 3** | [Livestream/Recording](https://slideslive.com/38922086/neurips-workshop-on-machine-learning-for-creativity-and-design-30-3) |
+| **Session 3** | [Livestream/Recording](https://slideslive.com/38922088/neurips-workshop-on-machine-learning-for-creativity-and-design-30-3) |
 | 2:30 PM | Invited Talk<br/>*Claire Evans* (YACHT) <br/> How to Chain Trip
 | 3:00 PM | Invited Talk<br/>*Sougwen Chung*|
 | 3:30 PM | Art / Coffee Break |
-| **Session 4** | [Livestream/Recording](https://slideslive.com/38922086/neurips-workshop-on-machine-learning-for-creativity-and-design-30-4) |
+| **Session 4** | [Livestream/Recording](https://slideslive.com/38922089/neurips-workshop-on-machine-learning-for-creativity-and-design-30-4) |
 | 4:15 PM | MidiMe: Personalizing a MusicVAE model with user data<br/>*Monica Dinculescu* |
 | 4:25 PM | First Steps Towards Collaborative Poetry Generation<br/>*David Uthus, Maria Voitovich* |
 | 4:35 PM | Open discussion |
